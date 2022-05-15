@@ -1,0 +1,22 @@
+.login-form{
+    width: 300px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 25vh;
+}
+
+.employee-table{
+    margin-top: 25vh;
+}
+
+.action-btns{
+    display: flex;
+    flex-wrap: nowrap;
+    align-items: center;
+    justify-content: flex-start;
+    flex-direction: row;
+}
+
+.btn-space{
+    margin-right: 10px;
+}
